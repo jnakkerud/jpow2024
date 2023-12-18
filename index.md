@@ -1,35 +1,54 @@
 {% include photos-page.html %}
 # Itinerary
 
-### July 18th
-* SFO -> PPT 
-* @13:25 United (UA 115)
-* [Boutique Hotel Kon Tiki Tahiti](https://kontikitahiti.com/en/), Papeete
+### Jan 24
+* SFO -> HND
+* @10:25 UA875
 
-### July 19-21
-* Moorea - HAAPITI airbnb
+### Jan 25-27
+* Tokyo - [Park Hotel Tokyo](https://parkhoteltokyo.com/) 
 
-### July 21-24
-* Moorea - TIAHURA airbnb
+### Jan 27
+* HND -> CTS
+* Skymark Airlines @11:00 SKY711
 
-### July 24-30
-* Tahiti - Mahina airbnb
+### Jan 27 - Feb 3
+* Niseko - [Alpen Ridge](https://www.skijapan.com/stay-with-us/niseko-accommodation/alpen-ridge/)
 
-### July 30
-* Air Tahiti @13:45 (VT539) to Rangiroa
-* Hotel: [Va'a i te Moana](https://www.vaaitemoana.com/en/home)
+### Feb 3 - 5
+* Sapporo - [The Knot](https://hotel-the-knot.jp/sapporo/en/)
 
-### Aug 1st
-* Air Tahiti @14:25 (VT692) to Fakarava
-* Accomodations: [Tuamotu kite camp](https://kitetuamotu.com/)
+### Feb 5
+* CTS -> ITM
+* @13:00 ANA776
 
-### Aug 8th
-* Air Tahiti @15:35 (VT692) to Tahiti
-* [Boutique Hotel Kon Tiki Tahiti](https://kontikitahiti.com/en/), Papeete
+### Feb 5 - 7
+* Kyoto - Hotel TBD
 
-### Aug 10th
-* PPT -> SFO 
-* @21:10 United (UA 114)
+### Feb 7
+* Kyoto Station -> Tokyo Station
+* Train TBD
+
+### Feb 7 - 8
+* Tokyo - Hotel TBD
+
+### Feb 8
+* Tokyo Station -> Morioka Station
+* Train - Arrive by 14:45
+
+### Feb 8th - 15
+* [Tohuku powder tour](https://www.japanskitours.com/tohoku-indy-trip-8-day.html)
+
+### Feb 15
+* Kitakami -> Ueno station (Tokyo)
+* Train TBD
+
+### Feb 15 - 16
+* Tokyo/Ueno - Hotel TBD
+
+### Feb 16
+* NRT -> SFO
+* @21:30 Zipair ZG026
 
 * * *
 
