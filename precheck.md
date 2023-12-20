@@ -14,7 +14,7 @@ Besides the normal stuff for international travel, passport, etc
 
 ##### At Airport
 
-- [ ] Metro card, i.e [Suica](https://en.japantravel.com/guide/how-to-get-a-suica-card/22316) or Pasmo. More info on where to get the card [here](https://www.jreast.co.jp/multi/en/welcomesuica/welcomesuica.html)
+- [ ] Metro card, i.e [Suica](https://en.japantravel.com/guide/how-to-get-a-suica-card/22316) or Pasmo. More info on where to get the card [here](https://www.jreast.co.jp/multi/en/welcomesuica/welcomesuica.html) Also possible to load the card in Apple Wallet
 - [ ] Pickup Mobile WIFI
 
 ###### Internet options
@@ -25,7 +25,10 @@ ESIM providers:
 [Ubigi](https://cellulardata.ubigi.com/data-plans-and-coverage/) with referral code VMUDEHW4 
 Airalo with code MACIEJ4748
 
-###### Also consider
+###### Haneda Airport Resources
 
 Bag forwarding: <https://www.global-yamato.com/en/hands-free-travel/scene04.html>
 Lockers at Haneda: https://tokyo-haneda.com/en/service/facilities/baggage_checkroom.html
+More luggage storage: https://tokyocheapo.com/living/luggage-storage-in-tokyo/
+Haneda Airport Guide: https://tokyo-haneda.com/en/index.html 
+Another Haneda Guide:https://tokyocheapo.com/travel/transport/haneda-airport-survival-guide/
