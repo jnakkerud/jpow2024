@@ -11,6 +11,7 @@ Besides the normal stuff for international travel, passport, etc
 - [ ] Gift - Apparently, Trader Joes bags make nice gifts
 - [ ] Some basic Japanese,  check out Duolingo
 - [ ] International phone plan, or esim. Also preorder mobile wifi. See below
+- [ ] [Klook](https://www.klook.com/?spm=Tetris_Appdownload.TopNavigation.BackHome&clickId=8ecfa64a05) app (Book activities, train tickets) 
 
 ##### At Airport
 
