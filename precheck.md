@@ -12,11 +12,12 @@ Besides the normal stuff for international travel, passport, etc
 - [ ] Some basic Japanese,  check out Duolingo
 - [ ] International phone plan, or esim. Also preorder mobile wifi. See below
 - [ ] [Klook](https://www.klook.com/?spm=Tetris_Appdownload.TopNavigation.BackHome&clickId=8ecfa64a05) app (Book activities, train tickets) 
+- [ ] Train and travel [app](https://japantravel.navitime.com/en/)
 
 ##### At Airport
 
 - [ ] Metro card, i.e [Suica](https://en.japantravel.com/guide/how-to-get-a-suica-card/22316) or Pasmo. More info on where to get the card [here](https://www.jreast.co.jp/multi/en/welcomesuica/welcomesuica.html) Also possible to load the card in Apple Wallet
-- [ ] Pickup Mobile WIFI
+- [ ] Pickup Mobile WIFI. See internet options below
 
 ###### Internet options
 

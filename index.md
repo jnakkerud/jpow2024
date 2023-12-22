@@ -5,6 +5,8 @@
 
 # [Pre Check List](./precheck.md)
 
+# [Tokyo Guide](tokyo.md)
+
 * * *
 
 {% include map-page.html %}
