@@ -7,6 +7,8 @@
 
 # [Tokyo Guide](tokyo.md)
 
+# [Niseko Guide](niseko.md)
+
 * * *
 
 {% include map-page.html %}
