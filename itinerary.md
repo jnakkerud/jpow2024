@@ -36,6 +36,7 @@
 
 ### Feb 8th - 15
 * [Tohuku powder tour](https://www.japanskitours.com/tohoku-indy-trip-8-day.html)
+* [Map](https://www.google.com/maps/d/u/1/viewer?mid=1-ZH2UVGToZ1ypsd32OT0QQ3K5I-4S4E&ll=39.65983325145382%2C140.97772999999995&z=9)
 
 ### Feb 15
 * Kitakami -> Ueno station (Tokyo)

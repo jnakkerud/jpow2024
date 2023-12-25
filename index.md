@@ -9,6 +9,5 @@
 
 # [Niseko Guide](niseko.md)
 
-* * *
+# [Sapporo Guide](./sapporo.md)
 
-{% include map-page.html %}
