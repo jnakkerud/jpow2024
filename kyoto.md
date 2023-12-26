@@ -21,4 +21,4 @@ Also consider [downtown kyoto](https://www.insidekyoto.com/downtown-kyoto) as it
 
 ## Resources
 
-https://www.insidekyoto.com/
+<https://www.insidekyoto.com/>

@@ -38,6 +38,6 @@
 - [Tokyo Tours](https://www.viator.com/Tokyo/d334-ttd)
 ## Resources
 
-- https://trulytokyo.com/
-- https://tokyocheapo.com/
-- https://visitjapan-vegetarian.com/
+- <https://trulytokyo.com/>
+- <https://tokyocheapo.com/>
+- <https://visitjapan-vegetarian.com/>

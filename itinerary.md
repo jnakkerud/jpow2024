@@ -1,4 +1,4 @@
-# Jan 24 - Feb 16
+
 ### Jan 24
 * SFO -> HND
 * @10:25 UA875

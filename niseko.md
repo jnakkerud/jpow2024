@@ -27,8 +27,8 @@
 
 - [Ship ski gear](https://www.powderlife.com/blog/send-shipping-ski-gear-niseko/)
 - [Skiing Mt Yotei](https://nisekotourism.com/news/skiing-into-mt-yoteis-crater/)
-- https://nisekotourism.com/
-- https://www.powderhounds.com/Japan/Hokkaido/Niseko.aspx
+- <https://nisekotourism.com/>
+- <https://www.powderhounds.com/Japan/Hokkaido/Niseko.aspx>
 - [Niseko Guide](https://gearjunkie.com/winter/skiing-niseko-japan-guide)
 - [Backcountry ski rental](https://www.backcountryskihirejapan.com/)
 
