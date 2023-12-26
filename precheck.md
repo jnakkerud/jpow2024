@@ -24,13 +24,13 @@ Besides the normal stuff for international travel, passport, etc
 Mobile WIFI <https://www.sakuramobile.jp/?idev_id=146&mibextid=Zxz2cZ> 
 
 ESIM providers:
-[Ubigi](https://cellulardata.ubigi.com/data-plans-and-coverage/) with referral code VMUDEHW4 
-Airalo with code MACIEJ4748
+- [Ubigi](https://cellulardata.ubigi.com/data-plans-and-coverage/) with referral code VMUDEHW4 
+- Airalo with code MACIEJ4748
 
 ###### Haneda Airport Resources
 
-Bag forwarding: <https://www.global-yamato.com/en/hands-free-travel/scene04.html>
-Lockers at Haneda: https://tokyo-haneda.com/en/service/facilities/baggage_checkroom.html
-More luggage storage: https://tokyocheapo.com/living/luggage-storage-in-tokyo/
-Haneda Airport Guide: https://tokyo-haneda.com/en/index.html 
-Another Haneda Guide:https://tokyocheapo.com/travel/transport/haneda-airport-survival-guide/
+- Bag forwarding: <https://www.global-yamato.com/en/hands-free-travel/scene04.html>
+- Lockers at Haneda: https://tokyo-haneda.com/en/service/facilities/baggage_checkroom.html
+- More luggage storage: https://tokyocheapo.com/living/luggage-storage-in-tokyo/
+- Haneda Airport Guide: https://tokyo-haneda.com/en/index.html 
+- Another Haneda Guide:https://tokyocheapo.com/travel/transport/haneda-airport-survival-guide/

@@ -2,8 +2,8 @@
 
 ## Transportation
 
-[Osaka Itami Airport to Kyoto](https://en.japantravel.com/article/osaka-itami-to-kyoto-the-easy-way/603)
-[Kyoto to Tokyo](https://tokyocheapo.com/travel/tokyo-to-kyoto-fastest-cheapest-ways/)
+- [Osaka Itami Airport to Kyoto](https://en.japantravel.com/article/osaka-itami-to-kyoto-the-easy-way/603)
+- [Kyoto to Tokyo](https://tokyocheapo.com/travel/tokyo-to-kyoto-fastest-cheapest-ways/)
 
 ## Accommodations
 

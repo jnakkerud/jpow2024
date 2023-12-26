@@ -7,30 +7,28 @@
 
 ## Resort Info
 
-[Ski Map](https://s3.us-east-1.amazonaws.com/images.gearjunkie.com/uploads/2023/10/Guide-to-Niseko-Niseko-United_Trail-Map_2022-23_EN-rotated-e1697529818852.jpg)
-
-[Weather and Lift Status](https://www.niseko.ne.jp/en/niseko-lift-status/)
-
-[On the mountain food](https://www.niseko.ne.jp/en/news/where-to-eat-on-mountain-in-niseko/)
+- [Ski Map](https://s3.us-east-1.amazonaws.com/images.gearjunkie.com/uploads/2023/10/Guide-to-Niseko-Niseko-United_Trail-Map_2022-23_EN-rotated-e1697529818852.jpg)
+- [Weather and Lift Status](https://www.niseko.ne.jp/en/niseko-lift-status/)
+- [On the mountain food](https://www.niseko.ne.jp/en/news/where-to-eat-on-mountain-in-niseko/)
 
 ## Food and Drink
 
-[Ramen - Rakuchi](https://www.rakuichisoba.com/)
-[Sushi Kato](https://sushikato.jp/main/)
-[Somoza](https://somoza.jp/en/)
-[Grandpapa Fondue](https://niseko-grandpapa.com/fondue/)
-[Best Sushi List](https://tabitogether.com/best-sushi-niseko/)
-[JAM Bar Niseko](https://www.tablecheck.com/shops/jamniseko/reserve)
-[Resto guide](https://japanskiexperience.com/news-and-articles/niseko-restaurant-guide/)
-[Mandala Club](https://mandala.club/niseko/)
-[Food trucks](https://eatthestreet-niseko.com/)
+- [Ramen - Rakuchi](https://www.rakuichisoba.com/)
+- [Sushi Kato](https://sushikato.jp/main/)
+- [Somoza](https://somoza.jp/en/)
+- [Grandpapa Fondue](https://niseko-grandpapa.com/fondue/)
+- [Best Sushi List](https://tabitogether.com/best-sushi-niseko/)
+- [JAM Bar Niseko](https://www.tablecheck.com/shops/jamniseko/reserve)
+- [Resto guide](https://japanskiexperience.com/news-and-articles/niseko-restaurant-guide/)
+- [Mandala Club](https://mandala.club/niseko/)
+- [Food trucks](https://eatthestreet-niseko.com/)
 
 ## Resources
 
-[Ship ski gear](https://www.powderlife.com/blog/send-shipping-ski-gear-niseko/)
-[Skiing Mt Yotei](https://nisekotourism.com/news/skiing-into-mt-yoteis-crater/)
-https://nisekotourism.com/
-https://www.powderhounds.com/Japan/Hokkaido/Niseko.aspx
-[Niseko Guide](https://gearjunkie.com/winter/skiing-niseko-japan-guide)
-[Backcountry ski rental](https://www.backcountryskihirejapan.com/)
+- [Ship ski gear](https://www.powderlife.com/blog/send-shipping-ski-gear-niseko/)
+- [Skiing Mt Yotei](https://nisekotourism.com/news/skiing-into-mt-yoteis-crater/)
+- https://nisekotourism.com/
+- https://www.powderhounds.com/Japan/Hokkaido/Niseko.aspx
+- [Niseko Guide](https://gearjunkie.com/winter/skiing-niseko-japan-guide)
+- [Backcountry ski rental](https://www.backcountryskihirejapan.com/)
 

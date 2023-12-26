@@ -48,7 +48,3 @@
 ### Feb 16
 * NRT -> SFO
 * @21:30 Zipair ZG026
-
-* * *
-
-{% include map-page.html %}
