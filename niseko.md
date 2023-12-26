@@ -23,6 +23,7 @@
 [JAM Bar Niseko](https://www.tablecheck.com/shops/jamniseko/reserve)
 [Resto guide](https://japanskiexperience.com/news-and-articles/niseko-restaurant-guide/)
 [Mandala Club](https://mandala.club/niseko/)
+[Food trucks](https://eatthestreet-niseko.com/)
 
 ## Resources
 

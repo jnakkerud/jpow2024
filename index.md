@@ -11,3 +11,4 @@
 
 # [Sapporo Guide](./sapporo.md)
 
+# [Kyoto Guide](./kyoto.md)
