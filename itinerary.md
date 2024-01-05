@@ -21,8 +21,7 @@
 * @13:00 ANA776
 
 ### Feb 5 - 7
-* Kyoto - Hotel TBD
-
+* Kyoto - [Mitsui Garden Kawaramachi Jokyoji](https://www.gardenhotels.co.jp/kyoto-kawaramachi-jokyoji/eng/)
 ### Feb 7
 * Kyoto Station -> Tokyo Station
 * Train TBD

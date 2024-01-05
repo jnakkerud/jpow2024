@@ -9,6 +9,7 @@
 
 - [Ski Map](https://s3.us-east-1.amazonaws.com/images.gearjunkie.com/uploads/2023/10/Guide-to-Niseko-Niseko-United_Trail-Map_2022-23_EN-rotated-e1697529818852.jpg)
 - [Weather and Lift Status](https://www.niseko.ne.jp/en/niseko-lift-status/)
+- [Snow Cam](https://www.youtube.com/watch?v=1ksmiy6EsDo)
 - [On the mountain food](https://www.niseko.ne.jp/en/news/where-to-eat-on-mountain-in-niseko/)
 
 ## Food and Drink
