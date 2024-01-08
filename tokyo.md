@@ -12,6 +12,7 @@
 	- [Shimbashi Station](https://www.jrailpass.com/blog/shimbashi-station)
 - [Complete Guide to the Tōhoku Shinkansen](https://tokyocheapo.com/travel/transport/tohoku-shinkansen-guide/)(Close to the Park Hotel)
 - [Shinkansen Tickets](https://tokyocheapo.com/travel/where-to-buy-shinkansen-tickets-online-machines/)
+- [Park Hotel Taxi Card](https://parkhoteltokyo.com/wp-content/uploads/sites/9/2019/05/TaxiCard_ParkHotelTokyo_181004.pdf)
 ## Where to stay
 
 - **Ginza** Food and Shopping

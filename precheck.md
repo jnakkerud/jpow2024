@@ -13,6 +13,7 @@ Besides the normal stuff for international travel, passport, etc
 - [ ] International phone plan, or esim. Also preorder mobile wifi. See below
 - [ ] [Klook](https://www.klook.com/?spm=Tetris_Appdownload.TopNavigation.BackHome&clickId=8ecfa64a05) app (Book activities, train tickets) 
 - [ ] Train and travel [app](https://japantravel.navitime.com/en/) Also [here](https://smart-ex.jp/en/index.php)
+- [ ] For hotels, print out the taxi card to show to the cab driver, i.e. for [Park Hotel Taxi Card](https://parkhoteltokyo.com/wp-content/uploads/sites/9/2019/05/TaxiCard_ParkHotelTokyo_181004.pdf)
 
 ##### At Airport
 

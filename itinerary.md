@@ -22,6 +22,7 @@
 
 ### Feb 5 - 7
 * Kyoto - [Mitsui Garden Kawaramachi Jokyoji](https://www.gardenhotels.co.jp/kyoto-kawaramachi-jokyoji/eng/)
+
 ### Feb 7
 * Kyoto Station -> Tokyo Station
 * Train TBD
