@@ -32,4 +32,5 @@
 - <https://www.powderhounds.com/Japan/Hokkaido/Niseko.aspx>
 - [Niseko Guide](https://gearjunkie.com/winter/skiing-niseko-japan-guide)
 - [Backcountry ski rental](https://www.backcountryskihirejapan.com/)
+- [Powder runs overview](https://www.youtube.com/watch?app=desktop&v=9oUAA5o78ZU)
 
