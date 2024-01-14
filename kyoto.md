@@ -1,3 +1,5 @@
+# Kyoto
+
 ### Feb 5 - 7
 
 ## Transportation
@@ -14,7 +16,7 @@ Also consider [downtown kyoto](https://www.insidekyoto.com/downtown-kyoto) as it
 ## Food and Drink
 
 [Hello Dolly](https://sharing-kyoto.com/eat_hello-dolly)
-
+[Teppan Tavern Tenamonya](https://www.tenamonyakyoto.com/english)Must reserve
 ## Resources
 
 <https://www.insidekyoto.com/>

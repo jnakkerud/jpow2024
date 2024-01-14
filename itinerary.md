@@ -1,3 +1,4 @@
+# Itinerary
 
 ### Jan 24
 * SFO -> HND
