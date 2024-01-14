@@ -1,4 +1,4 @@
-[![Welcome to JaPow 2024](/assets/images/snow-pagoda.jpeg "Snow Pagoda")](https://www.flickr.com/photos/nak/albums/72177720313634163)
+{% include photos-page.html %}
 # [Itinerary](./itinerary.md)
 
 # [Pre Check List](./precheck.md)
