@@ -14,6 +14,7 @@
 - [Complete Guide to the Tōhoku Shinkansen](https://tokyocheapo.com/travel/transport/tohoku-shinkansen-guide/)(Close to the Park Hotel)
 - [Shinkansen Tickets](https://tokyocheapo.com/travel/where-to-buy-shinkansen-tickets-online-machines/)
 - [Park Hotel Taxi Card](https://parkhoteltokyo.com/wp-content/uploads/sites/9/2019/05/TaxiCard_ParkHotelTokyo_181004.pdf)
+
 ## Where to stay
 
 - **Ginza** Food and Shopping
@@ -32,6 +33,8 @@
 - [Ramen](https://tokyocheapo.com/food-and-drink/ramen/what-is-ramen-infographic/)
 - [Studio Mule](https://thevinylfactory.com/news/new-audiophile-bar-record-shop-tokyo-studio-mule/)
 - [Wine House](http://www.winehouse-aym.com/)
+- [Kondo for Tempura](https://tempura-kondo.com/en/)
+
 ## Sight seeing
 
 - TeamLab planets or https://www.teamlab.art/e/borderless-azabudai/ and https://tokyocheapo.com/entertainment/museums-and-exhibitions/mori-building-digital-art-museum-teamlab-borderless/
@@ -40,6 +43,7 @@
 - Tsukiji market
 - [Tokyo Hop-On Hop-off sightseeing bus](https://www.klook.com/activity/87165-sky-hop-on-hop-off-bus-tokyo/?mibextid=Zxz2cZ)
 - [Tokyo Tours](https://www.viator.com/Tokyo/d334-ttd)
+
 ## Resources
 
 - <https://trulytokyo.com/>
