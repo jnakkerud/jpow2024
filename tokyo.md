@@ -37,7 +37,7 @@
 
 ## Sight seeing
 
-- TeamLab planets or https://www.teamlab.art/e/borderless-azabudai/ and https://tokyocheapo.com/entertainment/museums-and-exhibitions/mori-building-digital-art-museum-teamlab-borderless/
+- TeamLab planets or <https://www.teamlab.art/e/borderless-azabudai/> and <https://tokyocheapo.com/entertainment/museums-and-exhibitions/mori-building-digital-art-museum-teamlab-borderless/>
 - Sensoji Temple
 - Tokyo national museum
 - Tsukiji market
